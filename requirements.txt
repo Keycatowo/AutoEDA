@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+dataprep
+pandas-profiling[notebook]
+sweetviz
+autoviz
