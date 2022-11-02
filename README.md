@@ -7,6 +7,8 @@
 ## 安裝
 
 ```sh
+git clone https://github.com/Keycatowo/AutoEDA.git
+cd AutoEDA
 pip install -r requirements.txt
 ```
 
